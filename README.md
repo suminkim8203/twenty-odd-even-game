@@ -2,6 +2,8 @@
 
 20장 카드의 공개 정보를 보고 홀짝 또는 무늬를 예측하는 브라우저 미니게임.
 
+- 게임: https://suminkim8203.github.io/twenty-odd-even-game/
+
 ## 실행
 
 Node.js 22.12 이상(또는 지원되는 최신 LTS)을 사용합니다.

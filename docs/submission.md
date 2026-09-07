@@ -2,7 +2,7 @@
 
 ## 주소
 
-- 결과물 주소: https://twenty-odd-even.workspace-444183.chatgpt.site
+- 결과물 주소: https://suminkim8203.github.io/twenty-odd-even-game/
 - 소스 주소: https://github.com/suminkim8203/twenty-odd-even-game
 
 ## 짧은 확인 방법 4줄
