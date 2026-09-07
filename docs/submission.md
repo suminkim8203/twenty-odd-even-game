@@ -2,8 +2,8 @@
 
 ## 주소
 
-- 결과물 주소: 공개 배포 뒤 입력
-- 소스 주소: 공개 저장소 생성 뒤 입력
+- 결과물 주소: https://twenty-odd-even.workspace-444183.chatgpt.site
+- 소스 주소: https://github.com/suminkim8203/twenty-odd-even-game
 
 ## 짧은 확인 방법 4줄
 
